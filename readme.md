@@ -1,12 +1,13 @@
-# carpal26
+# Little Foot
+<br>
+<img src="https://github.com/sethpoly/little-foot-keyboard/raw/main/img/little_foot_pcb_1.0.12.png" width=35% height=35%>
+<br>
 
-![carpal26](imgur.com image replace me!)
-
-Command to flash:
-avrdude.exe -p atmega32u4 -c avr109 -U flash:w:"C:/Users/email/repos/qmk_firmware/keyboards/carpal26/carpal26_default.hex":i -P COM4
+*Command to flash:*
+`avrdude.exe -p atmega32u4 -c avr109 -U flash:w:"C:/Users/email/repos/qmk_firmware/keyboards/carpal26/carpal26_default.hex":i -P COM4`
 
 *A short description of the keyboard/project*
-
+*TODO*
 * Keyboard Maintainer: [sethpoly](https://github.com/sethpoly)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
