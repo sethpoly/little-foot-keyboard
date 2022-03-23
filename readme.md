@@ -1,6 +1,6 @@
 # Little Foot
 <br>
-<img src="https://github.com/sethpoly/little-foot-keyboard/raw/main/img/little_foot_pcb_1.0.12.png" width=35% height=35%>
+<img src="https://github.com/sethpoly/little-foot-keyboard/raw/main/img/little_foot_pcb_1.0.12.PNG" width=100% height=100%>
 <br>
 
 *Command to flash:*
