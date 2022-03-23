@@ -1,1 +1,1 @@
-# The default keymap for carpal26
+# The default keymap for littlefoot
