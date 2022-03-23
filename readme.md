@@ -4,21 +4,20 @@
 <br>
 
 *Command to flash:*
-`avrdude.exe -p atmega32u4 -c avr109 -U flash:w:"C:/Users/email/repos/qmk_firmware/keyboards/carpal26/carpal26_default.hex":i -P COM4`
+`avrdude.exe -p atmega32u4 -c avr109 -U flash:w:"C:/.../qmk_firmware/keyboards/littlefoot/littlefoot_default.hex":i -P COM4`
 
 *A short description of the keyboard/project*
-*TODO*
 * Keyboard Maintainer: [sethpoly](https://github.com/sethpoly)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 
 Make example for this keyboard (after setting up your build environment):
 
-    make carpal26:default
+    make littlefoot:default
 
 Flashing example for this keyboard:
 
-    make carpal26:default:flash
+    make littlefoot:default:flash
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
